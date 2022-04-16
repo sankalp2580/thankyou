@@ -5,7 +5,7 @@ export const Icon = () => {
   return (
     <>
     <div className="main-content">
-		<FaCheck size = "51px" color = "green" />
+		<FaCheck size = "105px" color = "green" />
         </div>
     </>
   )

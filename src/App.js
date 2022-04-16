@@ -6,13 +6,13 @@ import { Subtext } from './components/Subtext';
 
 function App() {
   return (
+    <>
     <div className="App">
-     <div className="center">
-     <Title />
-      <Icon />
-      <Subtext />
+    <Title />
+    <Icon />
+    <Subtext />
      </div> 
-    </div>
+     </>
   );
 }
 
